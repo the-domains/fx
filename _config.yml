@@ -1,0 +1,23 @@
+name: fx
+favicon: null
+layout_spectrum: 0.5127663232851774
+typography_spectrum: 0.589002278400585
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9648766266182065
+  lightness: 0.8647069172002375
+  saturation: 0.07262996514327824
+  rhythmicContrast: 0.09409826737828553
+purpose: []
